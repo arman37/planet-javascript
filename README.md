@@ -11,10 +11,10 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
 * [Core JavaScript](#corejs)
   * [Closure](#closure)
 
-##<a name="history">JavaScript History</a>
+## <a name="history">JavaScript History</a>
  * [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript).
 
 *<a name="corejs">JavaScript Core Features</a>*
 
-##<a name="closure">Closure</a>
+## <a name="closure">Closure</a>
  * [Grokking V8 closures for fun](http://mrale.ph/blog/2012/09/23/grokking-v8-closures-for-fun.html).
