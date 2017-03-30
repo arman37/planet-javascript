@@ -11,6 +11,7 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
 * [Introduction to JavaScript](#introduction)
 * [Core JavaScript](#corejs)
   * [Variables, data types & data structures](#typevariablestructure)
+  * [Expressions and Operators](#expression).
   * [Closure](#closure)
 
 ## <a name="history">JavaScript History</a>
@@ -28,6 +29,11 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
  * [JavaScript/Variables and types](https://en.wikibooks.org/wiki/JavaScript/Variables_and_types).
  * [JavaScript Data Types](https://www.w3schools.com/js/js_datatypes.asp).
  * [Types, Values, and Variables](http://hepunx.rl.ac.uk/~adye/jsspec11/valvar.htm).
+
+## <a name="expression">Expressions and Operators</a>
+ * [Expressions and operators - MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Guide/Expressions_and_Operators).
+ * [JavaScript Expressions and Operators](http://lib.ru/JAVA/javascr/expr.html).
+ * [Expressions and operators by category](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators).
 
 ## <a name="closure">Closure</a>
  * [Closures - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures).
