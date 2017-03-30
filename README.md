@@ -10,6 +10,7 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
 * [History of JavaScript](#history)
 * [Introduction to JavaScript](#introduction)
 * [Core JavaScript](#corejs)
+  * [Variables, data types & data structures](#typevariablestructure)
   * [Closure](#closure)
 
 ## <a name="history">JavaScript History</a>
@@ -20,6 +21,12 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
  * [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 *<a name="corejs">JavaScript Core Features:- </a>*
+
+## <a name="typevariablestructure">Variables, data types & data structures</a>
+ * [JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures).
+ * [JavaScript Data Types and Variables: Chapter 2 - Learning Javascript](http://archive.oreilly.com/pub/a/javascript/excerpts/learning-javascript/javascript-datatypes-variables.html).
+ * [JavaScript/Variables and types](https://en.wikibooks.org/wiki/JavaScript/Variables_and_types).
+ * [JavaScript Data Types](https://www.w3schools.com/js/js_datatypes.asp).
 
 ## <a name="closure">Closure</a>
  * [Grokking V8 closures for fun](http://mrale.ph/blog/2012/09/23/grokking-v8-closures-for-fun.html).
