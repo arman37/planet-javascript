@@ -34,6 +34,7 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
  * [Expressions and operators - MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Guide/Expressions_and_Operators).
  * [JavaScript Expressions and Operators](http://lib.ru/JAVA/javascr/expr.html).
  * [Expressions and operators by category](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators).
+ * [Always Use '===' instead of using '=='](https://github.com/arman37/javascript-best-practice#equality).
 
 ## <a name="closure">Closure</a>
  * [Closures - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures).
