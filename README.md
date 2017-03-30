@@ -27,6 +27,7 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
  * [JavaScript Data Types and Variables: Chapter 2 - Learning Javascript](http://archive.oreilly.com/pub/a/javascript/excerpts/learning-javascript/javascript-datatypes-variables.html).
  * [JavaScript/Variables and types](https://en.wikibooks.org/wiki/JavaScript/Variables_and_types).
  * [JavaScript Data Types](https://www.w3schools.com/js/js_datatypes.asp).
+ * [Types, Values, and Variables](http://hepunx.rl.ac.uk/~adye/jsspec11/valvar.htm).
 
 ## <a name="closure">Closure</a>
  * [Closures - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures).
