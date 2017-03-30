@@ -29,4 +29,5 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
  * [JavaScript Data Types](https://www.w3schools.com/js/js_datatypes.asp).
 
 ## <a name="closure">Closure</a>
+ * [Closures - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures).
  * [Grokking V8 closures for fun](http://mrale.ph/blog/2012/09/23/grokking-v8-closures-for-fun.html).
