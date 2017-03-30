@@ -16,6 +16,7 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
 
 ## <a name="history">JavaScript History</a>
  * [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript).
+ * [A Brief History of JavaScript Standards](https://ponyfoo.com/articles/standard).
 
 ## <a name="introduction">Introduction to JavaScript</a>
  * [JavaScript: The World's most misunderstood programming language](http://javascript.crockford.com/javascript.html)
