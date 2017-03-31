@@ -26,6 +26,7 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
 
 ## <a name="typevariablestructure">Variables, data types & data structures</a>
  * [JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures).
+ * [A Beginner’s Guide to JavaScript Variables and Datatypes](https://www.sitepoint.com/beginners-guide-javascript-variables-and-datatypes).
  * [JavaScript Data Types and Variables: Chapter 2 - Learning Javascript](http://archive.oreilly.com/pub/a/javascript/excerpts/learning-javascript/javascript-datatypes-variables.html).
  * [JavaScript/Variables and types](https://en.wikibooks.org/wiki/JavaScript/Variables_and_types).
  * [JavaScript Data Types](https://www.w3schools.com/js/js_datatypes.asp).
