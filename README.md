@@ -11,8 +11,9 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
 * [Introduction to JavaScript](#introduction)
 * [Core JavaScript](#corejs)
   * [Variables, data types & data structures](#typevariablestructure)
-  * [Expressions and Operators](#expression).
+  * [Expressions and Operators](#expression)
   * [Closure](#closure)
+  * [Garbage Collection and Memory Management](#gc&mm)
 
 ## <a name="history">JavaScript History</a>
  * [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript).
@@ -41,3 +42,9 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
 ## <a name="closure">Closure</a>
  * [Closures - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures).
  * [Grokking V8 closures for fun](http://mrale.ph/blog/2012/09/23/grokking-v8-closures-for-fun.html).
+
+## <a name="gc&mm">Garbage Collection and Memory Management</a>
+ * [How To Write Fast, Memory-Efficient JavaScript](https://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript)
+ * [Garbage Collection and Memory Management in JavaScript](https://www.codeproject.com/Articles/1151018/Garbage-Collection-and-Memory-Management-in-Java)
+ * [4 Types of Memory Leaks in JavaScript and How to Get Rid Of Them](https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them)
+ * [Memory Management - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
