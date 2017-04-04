@@ -14,6 +14,7 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
   * [Expressions and Operators](#expression)
   * [Closure](#closure)
   * [Garbage Collection and Memory Management](#gc&mm)
+* [JavaScript Engines](#engines)
 
 ## <a name="history">JavaScript History</a>
  * [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript).
@@ -48,3 +49,11 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
  * [Garbage Collection and Memory Management in JavaScript](https://www.codeproject.com/Articles/1151018/Garbage-Collection-and-Memory-Management-in-Java)
  * [4 Types of Memory Leaks in JavaScript and How to Get Rid Of Them](https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them)
  * [Memory Management - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
+
+## <a name="engines">JavaScript Engines</a>
+ * [How the V8 engine works?](http://thibaultlaurens.github.io/javascript/2013/04/29/how-the-v8-engine-works)
+ * [A Guide to JavaScript Engines for Idiots](http://developer.telerik.com/featured/a-guide-to-javascript-engines-for-idiots)
+ * [Breaking the JavaScript Speed Limit with V8 - Video](https://www.youtube.com/watch?v=UJPdhx5zTaw)
+ * [Breaking the JavaScript Speed Limit with V8 - Slides](http://v8-io12.appspot.com)
+ * [V8: Behind the Scenes (February Edition feat. A tale of TurboFan)](http://benediktmeurer.de/2017/03/01/v8-behind-the-scenes-february-edition)
+
