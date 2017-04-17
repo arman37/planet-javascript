@@ -15,6 +15,7 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
   * [Closure](#closure)
   * [Garbage Collection and Memory Management](#gc&mm)
 * [JavaScript Engines](#engines)
+* [Debugging](#debugging)
 
 ## <a name="history">JavaScript History</a>
  * [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript).
@@ -58,3 +59,5 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
  * [TurboFan: A new code generation architecture for V8](https://docs.google.com/presentation/d/1_eLlVzcj94_G4r9j9d_Lj5HRKFnq6jgpuPJtnmIBs88/edit#slide=id.p)
  * [V8: Behind the Scenes (February Edition feat. A tale of TurboFan)](http://benediktmeurer.de/2017/03/01/v8-behind-the-scenes-february-edition)
 
+## <a name="debugging">Debugging</a>
+ * [Debugging Tips and Tricks for Front-End Developers](https://css-tricks.com/debugging-tips-tricks)
