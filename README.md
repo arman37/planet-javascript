@@ -58,6 +58,7 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
  * [Breaking the JavaScript Speed Limit with V8 - Slides](http://v8-io12.appspot.com)
  * [TurboFan: A new code generation architecture for V8](https://docs.google.com/presentation/d/1_eLlVzcj94_G4r9j9d_Lj5HRKFnq6jgpuPJtnmIBs88/edit#slide=id.p)
  * [V8: Behind the Scenes (February Edition feat. A tale of TurboFan)](http://benediktmeurer.de/2017/03/01/v8-behind-the-scenes-february-edition)
+ * [V8: Behind the Scenes (March Edition feat. I+TF launch and Declarative JavaScript)](http://benediktmeurer.de/2017/04/03/v8-behind-the-scenes-march-edition)
 
 ## <a name="debugging">Debugging</a>
  * [Debugging Tips and Tricks for Front-End Developers](https://css-tricks.com/debugging-tips-tricks)
