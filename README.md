@@ -18,6 +18,7 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
 * [Debugging](#debugging)
 * [Front-End libraries & frameworks](#react)
   * [React](#react)
+* [JavaScript interview questions](#interviewquestions)
 
 ## <a name="history">JavaScript History</a>
  * [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript).
