@@ -19,6 +19,7 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
 * [Front-End libraries & frameworks](#react)
   * [React](#react)
   * [Redux](#redux)
+* [Package Management](#pm)
 * [JavaScript Interview Questions](#interviewquestions)
 
 ## <a name="history">JavaScript History</a>
@@ -88,6 +89,10 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
  * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html) [read]
  * [A Cartoon intro to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6) [read]
  * [Redux best practices](https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e) [read]
+
+## <a name="pm">Package Management</a>
+ * [Yarn vs npm: Everything You Need to Know](https://www.sitepoint.com/yarn-vs-npm) [read]
+ * [Yarn - Official Documentation](https://yarnpkg.com/en/docs) [read]
 
 ## <a name="interviewquestions">JavaScript Interview Questions</a>
  * [25 Essential JavaScript Interview Questions](https://www.toptal.com/javascript/interview-questions) [read]
