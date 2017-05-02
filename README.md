@@ -18,6 +18,7 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
 * [Debugging](#debugging)
 * [Front-End libraries & frameworks](#react)
   * [React](#react)
+  * [Redux](#redux)
 * [JavaScript Interview Questions](#interviewquestions)
 
 ## <a name="history">JavaScript History</a>
@@ -78,6 +79,15 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
  * [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) [read]
  * [Should I use React.createClass, ES6 Classes or stateless functional components?](http://jamesknelson.com/should-i-use-react-createclass-es6-classes-or-stateless-functional-components) [read]
  * [React.createClass versus extends React.Component](https://toddmotto.com/react-create-class-versus-component) [read]
+
+## <a name="redux">Redux</a>
+ * [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) [watch]
+ * [Notes for Dan Abramov's egghead.io Videos](https://github.com/dwyl/learn-redux/blob/master/egghead.io_video_tutorial_notes.md) [read]
+ * [Redux - Official Documentation](http://redux.js.org) [read]
+ * [Tips to learn React + Redux in 2017](https://www.robinwieruch.de/tips-to-learn-react-redux) [read]
+ * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html) [read]
+ * [A Cartoon intro to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6) [read]
+ * [Redux best practices](https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e) [read]
 
 ## <a name="interviewquestions">JavaScript Interview Questions</a>
  * [25 Essential JavaScript Interview Questions](https://www.toptal.com/javascript/interview-questions) [read]
