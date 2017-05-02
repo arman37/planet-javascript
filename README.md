@@ -16,6 +16,8 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
   * [Garbage Collection and Memory Management](#gc&mm)
 * [JavaScript Engines](#engines)
 * [Debugging](#debugging)
+* [Front-End libraries & frameworks](#react)
+  * [React](#react)
 
 ## <a name="history">JavaScript History</a>
  * [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript).
@@ -62,3 +64,5 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
 
 ## <a name="debugging">Debugging</a>
  * [Debugging Tips and Tricks for Front-End Developers](https://css-tricks.com/debugging-tips-tricks)
+
+## <a name="react">React</a>
