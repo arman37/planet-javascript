@@ -67,6 +67,8 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
  * [Debugging Tips and Tricks for Front-End Developers](https://css-tricks.com/debugging-tips-tricks) [read]
 
 ## <a name="react">React</a>
+ * [React Tutorial for Beginners - Codepen.io[2017]](https://www.youtube.com/watch?v=ZnRFerIP8aA) [watch]
+ * [Tutorial: Intro To React - Facebook Code](https://facebook.github.io/react/tutorial/tutorial.html) [read]
 
 ## <a name="interviewquestions">JavaScript Interview Questions</a>
  * [25 Essential JavaScript Interview Questions](https://www.toptal.com/javascript/interview-questions) [read]
