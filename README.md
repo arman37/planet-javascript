@@ -67,8 +67,17 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
  * [Debugging Tips and Tricks for Front-End Developers](https://css-tricks.com/debugging-tips-tricks) [read]
 
 ## <a name="react">React</a>
- * [React Tutorial for Beginners - Codepen.io[2017]](https://www.youtube.com/watch?v=ZnRFerIP8aA) [watch]
+ * [React Tutorial for Beginners - Codepen.io [2017]](https://www.youtube.com/watch?v=ZnRFerIP8aA) [watch]
  * [Tutorial: Intro To React - Facebook Code](https://facebook.github.io/react/tutorial/tutorial.html) [read]
+ * [Create a Simple To-Do App With React](https://scotch.io/tutorials/create-a-simple-to-do-app-with-react) [read]
+ * [Build Your First Production Quality React App](https://egghead.io/courses/build-your-first-production-quality-react-app) [watch]
+ * [Complete Introduction to React (feat. Redux and React Router)](https://frontendmasters.com/courses/react-intro) [watch]
+ * [Simple React Development in 2017](https://hackernoon.com/simple-react-development-in-2017-113bd563691f) [read]
+ * [React In-depth: An exploration of UI development](https://www.gitbook.com/book/developmentarc/react-indepth/details) [read(Book)]
+ * [React Tutorial : A Comprehensive Guide to Building Apps with React.js](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react) [read]
+ * [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) [read]
+ * [Should I use React.createClass, ES6 Classes or stateless functional components?](http://jamesknelson.com/should-i-use-react-createclass-es6-classes-or-stateless-functional-components) [read]
+ * [React.createClass versus extends React.Component](https://toddmotto.com/react-create-class-versus-component) [read]
 
 ## <a name="interviewquestions">JavaScript Interview Questions</a>
  * [25 Essential JavaScript Interview Questions](https://www.toptal.com/javascript/interview-questions) [read]
