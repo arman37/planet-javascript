@@ -18,7 +18,7 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
 * [Debugging](#debugging)
 * [Front-End libraries & frameworks](#react)
   * [React](#react)
-* [JavaScript interview questions](#interviewquestions)
+* [JavaScript Interview Questions](#interviewquestions)
 
 ## <a name="history">JavaScript History</a>
  * [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript).
@@ -67,3 +67,6 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
  * [Debugging Tips and Tricks for Front-End Developers](https://css-tricks.com/debugging-tips-tricks)
 
 ## <a name="react">React</a>
+
+## <a name="interviewquestions">JavaScript Interview Questions</a>
+ * [25 Essential JavaScript Interview Questions](https://www.toptal.com/javascript/interview-questions) [read]
