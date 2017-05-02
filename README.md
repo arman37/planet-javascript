@@ -75,3 +75,4 @@ Check out my [Blog](http://nitcrawler.blogspot.com) or say 'hello' on [LinkedIn]
  * [JavaScript Interview Questions - javatpoint](https://www.javatpoint.com/javascript-interview-questions) [read]
  * [21 Essential JavaScript Interview Questions](https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z)
  * [Top 85 JavaScript Interview Questions & Answers](http://career.guru99.com/top-85-javascript-interview-questions) [read]
+ * [Front-end Job Interview Questions](http://h5bp.github.io/Front-end-Developer-Interview-Questions) [read]
